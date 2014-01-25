@@ -1,0 +1,33 @@
+[
+    {
+        "account":       "Marvel",
+        "repository":    "android_device_htc_marvel",
+        "target_path":   "device/htc/marvel",
+        "revision":      "master"
+    },{
+        "account":       "Marvel",
+        "repository":    "android_device_htc_common",
+        "target_path":   "device/htc/common",
+        "revision":      "refs/heads/gingerbread"
+    },{
+        "account":       "Marvel",
+        "repository":    "android_device_htc_msm7x27-common",
+        "target_path":   "device/htc/msm7x27-common",
+        "revision":      "master"
+    },{
+        "account":       "Marvel",
+        "repository":    "android_vendor_htc_marvel",
+        "target_path":   "vendor/htc/marvel",
+        "revision":      "master"
+    },{
+        "account":       "Marvel",
+        "repository":    "android_vendor_qcom_msm7x27",
+        "target_path":   "vendor/qcom/msm7x27",
+        "revision":      "master"
+    },{
+        "account":       "Marvel",
+        "repository":    "OWL-Predator-KERNEL",
+        "target_path":   "kernel/htc/msm7227",
+        "revision":      "master"
+    }
+]
